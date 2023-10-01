@@ -9,8 +9,9 @@
 <h3 align="center">A passionate Mobile App Full-Stack Developer</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Artificial+Intelligence+Engineer;Microsoft+ERP+Emplementer;Mobile+App+Flutter+Developer;Full-Stack+Developer;Microcontroller+Engineer" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Artificial+Intelligence+Engineer;Microsoft+ERP+Emplementer;Mobile+App+Flutter+Developer;Full-Stack+Developer;Microcontroller+Engineer" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/competition/light" />
