@@ -29,8 +29,7 @@
 <a href="https://www.instagram.com/3omar.hs" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
    
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   
+<p align="left">    
 <a href="https://www.kaggle.com/omarhj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omarhassan" height="30" width="40" /></a>
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
