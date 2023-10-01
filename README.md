@@ -21,7 +21,10 @@
 </p>
 
 
-- 👨‍💻 Some of my projects are available at [https://www.kaggle.com/omarhassan](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)
+- 👨‍💻 Some of my projects are available at
+-    [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)
+-    [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)
+-    [Microcontroller Projects](https://docs.google.com/document/d/1WCoutJTa1N7M_5syQ0CkldH8ZHHN6_w5SvgPwCOa6bU/edit)
 
 - 💬 Ask me about **Python, Data Science, NLP, Data Analysis**
 
