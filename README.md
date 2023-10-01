@@ -13,14 +13,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/discussion/light" />
-</p>
-
-
 👨‍💻 Some of my projects are available at
 -    [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)
 -    [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)
