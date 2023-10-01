@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Omar Hassan</h1>
 <h3 align="center">A passionate Developer</h3>
 
-<p align="center">
+<p >
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Artificial+Intelligence+Engineer;Microsoft+ERP+Emplementer;Mobile+App+Flutter+Developer;Full-Stack+Developer;Microcontroller+Engineer" alt="Typing SVG" />
 </p>
 
