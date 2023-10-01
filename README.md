@@ -15,8 +15,8 @@
 
 <br><br>
 👨‍💻 Some of my projects are available at:<br>
-    &nbsp;</p><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flutter.svg" alt="omarhassan" height="15" width="15" />  [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)<br>
-    &nbsp;&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" alt="omarhassan" height="15" width="15" />  [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)<br>
+    </p><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flutter.svg" alt="omarhassan" height="15" width="15" />  [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)<br>
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" alt="omarhassan" height="15" width="15" />  [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)<br>
     &#9;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg" alt="omarhassan" height="15" width="15" />  [Microcontroller Projects](https://docs.google.com/document/d/1WCoutJTa1N7M_5syQ0CkldH8ZHHN6_w5SvgPwCOa6bU/edit)<br>
  <br> <br>
 💬 Ask me about **Python, Flutter Apps, Computer Vission, Microsoft Power Family, Microcontrollers and Electronics Circuits**
