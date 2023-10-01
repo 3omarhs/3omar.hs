@@ -21,7 +21,7 @@
 </p>
 
 
-- 👨‍💻 Some of my projects are available at [https://www.kaggle.com/omarhassan]([https://www.kaggle.com/omarhassan](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit))
+- 👨‍💻 Some of my projects are available at [https://www.kaggle.com/omarhassan]([https://www.kaggle.com/omarhassan](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)
 
 - 💬 Ask me about **Python, Data Science, NLP, Data Analysis**
 
