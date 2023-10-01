@@ -13,12 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Artificial+Intelligence+Engineer;Microsoft+ERP+Emplementer;Mobile+App+Flutter+Developer;Full-Stack+Developer;Microcontroller+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 
-<br><br>
+<br>
 👨‍💻 Some of my projects are available at:<br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/flutter.svg" alt="omarhassan" height="15" width="15" />  [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)<br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" alt="omarhassan" height="15" width="15" />  [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)<br><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg" alt="omarhassan" height="15" width="15" />  [Microcontroller Projects](https://docs.google.com/document/d/1WCoutJTa1N7M_5syQ0CkldH8ZHHN6_w5SvgPwCOa6bU/edit)<br><br>
- <br> <br>
+ <br>
 💬 Ask me about **Python, Flutter Apps, Computer Vission, Microsoft Power Family, Microcontrollers and Electronics Circuits**
 
 - 📫 How to reach me **omarhj13702@yahoo.com**
