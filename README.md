@@ -25,8 +25,8 @@
 -    [Flutter Projects](https://docs.google.com/document/d/140iAMIEoe0zxkpcp0GLjhN8VJSVoGveS9FlbdqvNhfA/edit)
 -    [Python Projects](https://docs.google.com/document/d/12Az9HY_KY7B5o79P6msEDPD7zIqYY01CAg1pPj9uERc/edit)
 -    [Microcontroller Projects](https://docs.google.com/document/d/1WCoutJTa1N7M_5syQ0CkldH8ZHHN6_w5SvgPwCOa6bU/edit)
-
-- 💬 Ask me about **Python, Flutter Apps, Computer Vission, Microsoft Power Family, Microcontrollers and Electronics Circuits**
+ <br> <br>
+💬 Ask me about **Python, Flutter Apps, Computer Vission, Microsoft Power Family, Microcontrollers and Electronics Circuits**
 
 - 📫 How to reach me **omarhj13702@yahoo.com**
 
@@ -55,4 +55,4 @@
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Omar hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarhassan&show_icons=true&theme=radical)
+![Omar Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarhassan&show_icons=true&theme=radical)
