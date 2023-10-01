@@ -13,12 +13,12 @@
 </p>
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/omarhassan/discussion/light" />
-</p>
+</p>-->
 
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/omarhassan](https://www.kaggle.com/omarhassan)
