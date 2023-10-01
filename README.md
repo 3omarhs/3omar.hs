@@ -6,11 +6,11 @@
   
 </p>
 <h1 align="center">Hi 👋, I'm Omar Hassan</h1>
-<h3 align="center">A passionate Data Scientist from Jordan</h3>
+<h3 align="center">A passionate Mobile App Full-Stack Developer</h3>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Student;Junior+Data+Scientist;Expert+on+Kaggle;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Engineer;Microsoft+ERP+Emplementer;Mobile+App+Flutter+Developer;Full-Stack+Developer; Microcontroller+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
